@@ -12,4 +12,4 @@ while True:
 		print('猜錯了，數字太大')
 	elif r1 < r: 
 		print('猜錯了，數字太小')
-print('這是你猜的第', count,'次')
+print('你總共猜了', count,'次')
